@@ -21,3 +21,5 @@ def divide(first_term, second_term):
 
 
 # Just some random text to move things ahead
+
+# And just because I can I added another
